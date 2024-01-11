@@ -65,7 +65,7 @@
 #include "qom/object.h"
 
 /* debug RTL8139 card */
-//#define DEBUG_RTL8139 1
+#define DEBUG_RTL8139 1
 
 #define PCI_PERIOD 30    /* 30 ns period = 33.333333 Mhz frequency */
 
